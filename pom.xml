@@ -21,7 +21,6 @@
     </dependency>
   </dependencies>
   
-	
   <build>
 	<plugins>
 		<plugin>
@@ -51,10 +50,6 @@
         <url>http://13.233.127.211:8081/nexus/content/repositories/broadall/</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
 
 
 
